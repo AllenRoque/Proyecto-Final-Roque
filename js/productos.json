@@ -1,0 +1,172 @@
+[
+  {
+    "id": "shonen-01",
+    "titulo": "Chainsaw man",
+    "imagen": "./img/shonen/csm.png",
+    "categoria": {
+      "nombre": "Shonen",
+      "id": "shonen"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "shonen-02",
+    "titulo": "Gantz",
+    "imagen": "./img/shonen/Gantz.jpg",
+    "categoria": {
+      "nombre": "Shonen",
+      "id": "shonen"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "shonen-03",
+    "titulo": "Katekyo Hitman Reborn",
+    "imagen": "./img/shonen/hitman.jpg",
+    "categoria": {
+      "nombre": "Shonen",
+      "id": "shonen"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "shonen-04",
+    "titulo": "Kingdom",
+    "imagen": "./img/shonen/kingdom.jpg",
+    "categoria": {
+      "nombre": "Shonen",
+      "id": "shonen"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "shonen-05",
+    "titulo": "Naruto",
+    "imagen": "./img/shonen/naruto.jpg",
+    "categoria": {
+      "nombre": "Shonen",
+      "id": "shonen"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "comedia-01",
+    "titulo": "Baka to test",
+    "imagen": "./img/comedia/Baka_to_Test.webp",
+    "categoria": {
+      "nombre": "Comedia",
+      "id": "comedia"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "comedia-02",
+    "titulo": "Love is War",
+    "imagen": "./img/comedia/Kaguya-Sam-Love-Is-War.jpg",
+    "categoria": {
+      "nombre": "Comedia",
+      "id": "comedia"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "comedia-03",
+    "titulo": "Kanojo mo kanojo",
+    "imagen": "./img/comedia/kanojomokanojo.webp",
+    "categoria": {
+      "nombre": "Comedia",
+      "id": "comedia"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "comedia-04",
+    "titulo": "Mob psycho",
+    "imagen": "./img/comedia/mob.jpg",
+    "categoria": {
+      "nombre": "Comedia",
+      "id": "comedia"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "comedia-05",
+    "titulo": "Tonikaku kawai",
+    "imagen": "./img/comedia/tonikaku.jpg",
+    "categoria": {
+      "nombre": "Comedia",
+      "id": "comedia"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "comedia-06",
+    "titulo": "Urusei Yatsura",
+    "imagen": "./img/comedia/Urusei-Yatsura.webp",
+    "categoria": {
+      "nombre": "Comedia",
+      "id": "comedia"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "comedia-07",
+    "titulo": "Gokushufudo",
+    "imagen": "./img/comedia/yakuza.webp",
+    "categoria": {
+      "nombre": "Comedia",
+      "id": "comedia"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "marcial-01",
+    "titulo": "Bakki",
+    "imagen": "./img/marcial/bakki.jpg",
+    "categoria": {
+      "nombre": "Marcial",
+      "id": "marcial"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "marcial-02",
+    "titulo": "Hajime no Ippo",
+    "imagen": "./img/marcial/ippo.jpg",
+    "categoria": {
+      "nombre": "Marcial",
+      "id": "marcial"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "marcial-03",
+    "titulo": "Kengan Asura",
+    "imagen": "./img/marcial/kengan.jpg",
+    "categoria": {
+      "nombre": "Marcial",
+      "id": "marcial"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "marcial-04",
+    "titulo": "Kenichi",
+    "imagen": "./img/marcial/kenichi.jpg",
+    "categoria": {
+      "nombre": "Marcial",
+      "id": "marcial"
+    },
+    "precio": 1000
+  },
+  {
+    "id": "marcial-05",
+    "titulo": "Shuumatsu no Valkyrie",
+    "imagen": "./img/marcial/shumatsu.webp ",
+    "categoria": {
+      "nombre": "Marcialss",
+      "id": "marcial"
+    },
+    "precio": 1000
+  }
+]
